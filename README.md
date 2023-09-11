@@ -1,1 +1,2 @@
 # personal_website
+This project is a personal portfolio of Tommy Manokoune's web development works. It will include an about section with an introduction to myself, a portfolio page, as well as a home page.
