@@ -1,8 +1,6 @@
-p{color:blue;
-font-size: 22px;
-}
 .homeMessage{
     font-size: 40px;
+    font-family: monospace;
 }
 /* Define navigation block */
 ul {
@@ -29,9 +27,22 @@ ul {
   li a:hover {
     background-color: black;
   }
-  img {
+  .prof{
     border-radius: 300%;
     width:300px;
     height:300px;
     float: left;
   }
+.stack {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+}
+.stackMessage
+{
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+}
