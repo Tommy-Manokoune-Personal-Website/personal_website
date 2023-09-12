@@ -54,21 +54,23 @@ li a:hover {
   transform: scaleX(-1);
 }
 .projPic {
-    width: 300px;
-    height: 200px;
-    margin-right: 40px;
+  width: 300px;
+  height: 200px;
+  margin-right: 40px;
 }
-section{
-    padding-top: 40px;
-    padding-left: 10px;
-    box-sizing: border-box;
-    font-family: monospace;
-    justify-content: center;
-    align-items: center;
-    background-color: whitesmoke;
-    float: left;
-    border: 3px solid gray;
-    border-radius: 5px;
+section {
+  padding-top: 40px;
+  padding-left: 10px;
+  box-sizing: border-box;
+  font-family: monospace;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  float: left;
+  border: 3px solid gray;
+  border-radius: 5px;
 }
-.textBox{float: right;
-width: 700px;}
+.textBox {
+  float: right;
+  width: 700px;
+}
