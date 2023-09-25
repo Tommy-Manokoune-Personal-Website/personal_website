@@ -74,3 +74,9 @@ section {
   float: right;
   width: 700px;
 }
+form {
+  font-family: monospace;
+}
+button {
+  font-family: monospace;
+}
