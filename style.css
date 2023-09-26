@@ -76,7 +76,18 @@ section {
 }
 form {
   font-family: monospace;
+  font-size: 26px;
 }
 button {
+  font-family: monospace;  font-size: 26px;
+}
+p{
+  font-size: 15px;
   font-family: monospace;
+}
+h2{
+  font-family: monospace;
+}
+#submit {
+  font-family: monospace;  font-size: 26px;
 }
